@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F2F2F2;
+    margin: 0;
+    
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+span{
+    color: #007af3;
+}
+li{
+    list-style-type: none;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    display: flex;
+    
+}
+.primary-nav {
+    display: flex;
+    text-align: left;
+}
